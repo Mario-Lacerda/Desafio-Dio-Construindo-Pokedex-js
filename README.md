@@ -18,7 +18,9 @@
 
 ## Sobre o projeto
 
-Este projeto é parte do Bootcamp Fullstack Java + Angular da DIO e foi desenvolvido como um desafio para aplicar os conceitos aprendidos durante o curso. Ele consiste em uma aplicação web que utiliza tecnologias front-end, como HTML5, CSS3 e JavaScript, para exibir informações sobre Pokémon.
+Este projeto é parte do Bootcamp Fullstack Java + Angular da DIO e foi desenvolvido como um desafio para aplicar os conceitos 
+aprendidos durante o curso. Ele consiste em uma aplicação web que utiliza tecnologias front-end, como HTML5, CSS3 e JavaScript, 
+para exibir informações sobre Pokémon.
 
 
 
@@ -45,5 +47,6 @@ Este projeto é parte do Bootcamp Fullstack Java + Angular da DIO e foi desenvol
 
 Como o Bootcamp é amplo abordando vários assuntos e cursos, vou finalizar o projeto por aqui e fazer a entrega do mesmo.
 
-Mais para a frente no bootcamp ou durante minha trilha de aprendizado pretendo revisitar este código para fazer aperfeiçoamentos, para me manter em constante evolução.
+Mais para a frente no bootcamp ou durante minha trilha de aprendizado pretendo revisitar este código para fazer aperfeiçoamentos,
+para me manter em constante evolução.
 
